@@ -1,14 +1,25 @@
 <!DOCTYPE html>
 <html>
-<head>
+  <head>
     <title>Fibonacci Number Generator</title>
-</head>
-<body>
-    <h1>Fibonacci Number Generator</h1>
-    <form action="/" method="post">
-        <label for="n">Enter a number (n):</label>
-        <input type="number" name="n" id="n" required>
-        <button type="submit">Generate</button>
-    </form>
-</body>
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    />
+    <link rel="stylesheet" href="../static/styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1 class="text-center mb-4px">Fibonacci Number Generator</h1>
+      <form action="/" method="post">
+        <div class="form-group">
+          <label for="n" class="font-weight-bold">Enter a number (n):</label>
+          <input type="number" name="n" id="n" class="form-control" required />
+        </div>
+        <button type="submit" class="btn btn-primary btn-block">
+          Generate
+        </button>
+      </form>
+    </div>
+  </body>
 </html>
