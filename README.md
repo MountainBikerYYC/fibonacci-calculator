@@ -5,7 +5,7 @@ Updated: August 1st 2023
 # Live Application
 
 The project is hosted live on Heroku at
-[fibonacci-calculator.herokuapp.com](https://fibonacci-calculator.herokuapp.com)
+[https://fibonacci-calculator-2531b1231971.herokuapp.com/](https://fibonacci-calculator-2531b1231971.herokuapp.com/)
 
 # Introduction
 
