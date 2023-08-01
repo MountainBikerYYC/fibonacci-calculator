@@ -16,7 +16,7 @@ Simple Fibonacci Calculator done for the Chan-Zuckerberg Biohub challenge
 # If downloading on local machine
 
 1. Go to the folder in fibonacci-calculator
-2. Open a console and create a virtual environment `python3 -m venv venv`
+2. Open a bash console and create a virtual environment `python3 -m venv venv`
 3. Activate the environment using `source venv/bin/activate`, you should now see (venv) or (main)
 4. Install all dependencies `pip install -r requirements.txt`
 
