@@ -21,6 +21,7 @@ Simple Fibonacci Calculator done for the Chan-Zuckerberg Biohub challenge
 4. Install all dependencies `pip install -r requirements.txt`
 
 Your directory should look like this
+```
 .fibonacci-calculator-app/
 ├── static/
 ├── templates/
@@ -31,7 +32,7 @@ Your directory should look like this
 ├── fibonacci.db
 ├── README
 └── requirements.txt
-
+```
 # Database setup
 
 # We will be using SQlite3 which is a very light weight relational database to store our results
